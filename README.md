@@ -1,7 +1,2 @@
 - 👋 Hi, I’m @wolenik
 - 👀 I’m interested in CS and CIS
-- 🌱 I’m currently learning AP CSA at my high school
-- 💞️ I’m looking to collaborate on anything involving programming
-- 📫 How to reach me: look at my website
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have been programming since I was twelve
